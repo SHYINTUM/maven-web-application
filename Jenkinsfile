@@ -43,7 +43,7 @@ node
  
  stage('EmailNotification')
  {
- mail bcc: 'devopstrainingblr@gmail.com', body: '''Build is over
+ mail bcc: 'devopstrainingblr@gmail.com', body: '''Build is over.
 
  Thanks,
  Mithun Technologies,
